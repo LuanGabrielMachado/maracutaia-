@@ -116,6 +116,7 @@ Cada usuário tem controle sobre sua experiência:
 - **Ghostar 👻 por 48h** — a pessoa para de ver seus posts temporariamente, renovável
 - **Denunciar 🚨** — chega direto para os admins
 
+
 Tudo acessível ao tocar na foto de outro usuário.
 
 ### 2.8 Notificações
@@ -135,11 +136,12 @@ Controle: opt-out disponível no perfil. Se bloquear o bot → desativa automati
 - Ativa/desativa no perfil — desativar exige autenticação biométrica de confirmação
 - Re-trava automaticamente ao voltar do background
 
-### 2.10 Exportação de Dados 📦
+### 2.10 Gerenciamento de Dados 📦
 
 - Botão no perfil — exporta conta, posts e lista de seguidos em `.txt`
 - Enviado direto na conversa com o bot
 - LGPD Art. 18, IV — direito de acesso aos dados
+- Botão no perfil exclui total e imediadamente a conta e todos os dados
 
 ---
 
