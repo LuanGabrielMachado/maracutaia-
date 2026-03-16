@@ -154,7 +154,7 @@ Posts somem após 7 dias. Um countdown mostra o tempo restante.
 Telegram → Buscar @vempramaracutaiabot → Abrir
 ```
 
-Ou acesse diretamente: **https://t.me/vempramaracutaiabot**
+Ou acesse diretamente: **https://t.me/vempramaracutuaiabot** (Ai sim, nome ta errado, mas fazer o que, é Beta)
 
 ---
 
