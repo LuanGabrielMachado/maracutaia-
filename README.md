@@ -84,7 +84,7 @@ Posts somem após 7 dias. Um countdown mostra o tempo restante.
 | **Ghosting**        | Pausa temporária                | 48h, renovável     |
 | **Notificações**    | Push via Bot Telegram           | Opt-out disponível |
 | **Efemeridade**     | Expiração automática + cascade  | 7 dias             |
-| **Rate Limit**      | Slow social                     | 20-30 min          |
+| **Rate Limit**      | Slow social                     | 10-15 min          |
 | **Lock Biométrico** | Face ID / Digital               | Via Telegram SDK   |
 | **Exportação LGPD** | Seus dados em .txt              | Via bot            |
 | **Moderação**       | Shadow ban, ban, auditoria      | Admin dashboard    |
