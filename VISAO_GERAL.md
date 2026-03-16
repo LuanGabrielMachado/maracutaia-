@@ -53,7 +53,7 @@ A **Tia Górgona** é a guardiã da plataforma.
 ### 2.1 Acesso
 
 **Onde:** Telegram Mini App (roda dentro do Telegram)
-**URL:** [t.me/vempramaracutaiabot](https://t.me/vempramaracutaiabot)
+**URL:** [t.me/vempramaracutaiabot](https://t.me/vempramaracutuaiabot)
 
 **Como:**
 
@@ -460,7 +460,7 @@ Grátis para o usuário final. Sempre.
 
 *"Na Maracutáia, a Tia Górgona vê tudo. E ela não perdoa, ela debocha."*
 
-**[t.me/vempramaracutaiabot](https://t.me/vempramaracutaiabot)**
+**[t.me/vempramaracutaiabot](https://t.me/vempramaracutuaiabot)**
 
 ---
 
