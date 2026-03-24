@@ -16,19 +16,14 @@
 ![MadeInBrazil](https://img.shields.io/badge/Feito%20no-Brasil-FFDF00?style=for-the-badge&logo=googlemaps&logoColor=009c3b)
 ![IndieBuilt](https://img.shields.io/badge/built%20by-dev%20independente-ff69b4?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/status-production-brightgreen?style=for-the-badge&logo=telegram&logoColor=white)
-![Platform](https://img.shields.io/badge/platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Type](https://img.shields.io/badge/type-Social%20Network-ff69b4?style=for-the-badge)
-![Messages](https://img.shields.io/badge/messages-ephemeral-blueviolet?style=for-the-badge&logo=snapchat&logoColor=white)
-
-![Privacy](https://img.shields.io/badge/privacy-first-brightgreen?style=for-the-badge&logo=privateinternetaccess&logoColor=white)
-![NoTracking](https://img.shields.io/badge/tracking-none-brightgreen?style=for-the-badge)
-![NoAds](https://img.shields.io/badge/ads-zero-brightgreen?style=for-the-badge)
-![DataOwner](https://img.shields.io/badge/seus%20dados-são%20seus-009c3b?style=for-the-badge)
-
-![LGPD](https://img.shields.io/badge/LGPD-Compliant-009c3b?style=for-the-badge)
-![MadeInBrazil](https://img.shields.io/badge/Feito%20no-Brasil-FFDF00?style=for-the-badge&logo=googlemaps&logoColor=009c3b)
-![IndieBuilt](https://img.shields.io/badge/built%20by-dev%20independente-ff69b4?style=for-the-badge)
+![PhysicsEngine](https://img.shields.io/badge/Physics%20Engine-Icarus-FF6B35?style=for-the-badge&logo=atom&logoColor=white)
+![Particles](https://img.shields.io/badge/Particles-Newtonian%20Physics-FF6B35?style=for-the-badge)
+![Gyroscope](https://img.shields.io/badge/Gyroscope-Force%20Input-FF4500?style=for-the-badge&logo=android&logoColor=white)
+![ThermalNoise](https://img.shields.io/badge/Thermal%20Noise-Eternal%20Motion-8B0000?style=for-the-badge)
+![Halton](https://img.shields.io/badge/Distribution-Halton%20Sequence-DC143C?style=for-the-badge)
+![Verlet](https://img.shields.io/badge/Integration-Verlet%20based-FF6B35?style=for-the-badge)
+![RAF](https://img.shields.io/badge/Loop-requestAnimationFrame-FF8C00?style=for-the-badge)
+![ZeroRerender](https://img.shields.io/badge/React%20Rerenders-zero-brightgreen?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
