@@ -16,7 +16,7 @@
 ![MadeInBrazil](https://img.shields.io/badge/Feito%20no-Brasil-FFDF00?style=for-the-badge&logo=googlemaps&logoColor=009c3b)
 ![IndieBuilt](https://img.shields.io/badge/built%20by-no%20dev%20independente-ff69b4?style=for-the-badge)
 
-![PhysicsEngine](https://img.shields.io/badge/Physics%20Engine-Icarus-FF6B35?style=for-the-badge&logo=atom&logoColor=white)
+![PhysicsEngine](https://img.shields.io/badge/Physics%20Engine-Icarus/%20Próprio-FF6B35?style=for-the-badge&logo=atom&logoColor=white)
 ![Particles](https://img.shields.io/badge/Particles-Newtonian%20Physics-FF6B35?style=for-the-badge)
 ![Gyroscope](https://img.shields.io/badge/Gyroscope-Force%20Input-FF4500?style=for-the-badge&logo=android&logoColor=white)
 ![ThermalNoise](https://img.shields.io/badge/Thermal%20Noise-Eternal%20Motion-8B0000?style=for-the-badge)
