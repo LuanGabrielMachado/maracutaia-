@@ -2,11 +2,33 @@
 
 **Uma rede social de fofocas efêmeras dentro do Telegram.**
 
-[![Status](https://img.shields.io/badge/status-produção-green)](https://t.me/vempramaracutaiabot)
-[![Versão](https://img.shields.io/badge/versão-7.0.0-blue)](https://t.me/vempramaracutaiabot)
-[![Plataforma](https://img.shields.io/badge/platform-Telegram%20Mini%20App-blue)](https://t.me/vempramaracutaiabot)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
+![Status](https://img.shields.io/badge/status-production-brightgreen?style=for-the-badge&logo=telegram&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Type](https://img.shields.io/badge/type-Social%20Network-ff69b4?style=for-the-badge)
+![Messages](https://img.shields.io/badge/messages-ephemeral-blueviolet?style=for-the-badge&logo=snapchat&logoColor=white)
+
+![Privacy](https://img.shields.io/badge/privacy-first-brightgreen?style=for-the-badge&logo=privateinternetaccess&logoColor=white)
+![NoTracking](https://img.shields.io/badge/tracking-none-brightgreen?style=for-the-badge)
+![NoAds](https://img.shields.io/badge/ads-zero-brightgreen?style=for-the-badge)
+![DataOwner](https://img.shields.io/badge/seus%20dados-são%20seus-009c3b?style=for-the-badge)
+
+![LGPD](https://img.shields.io/badge/LGPD-Compliant-009c3b?style=for-the-badge)
+![MadeInBrazil](https://img.shields.io/badge/Feito%20no-Brasil-FFDF00?style=for-the-badge&logo=googlemaps&logoColor=009c3b)
+![IndieBuilt](https://img.shields.io/badge/built%20by-dev%20independente-ff69b4?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/status-production-brightgreen?style=for-the-badge&logo=telegram&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Type](https://img.shields.io/badge/type-Social%20Network-ff69b4?style=for-the-badge)
+![Messages](https://img.shields.io/badge/messages-ephemeral-blueviolet?style=for-the-badge&logo=snapchat&logoColor=white)
+
+![Privacy](https://img.shields.io/badge/privacy-first-brightgreen?style=for-the-badge&logo=privateinternetaccess&logoColor=white)
+![NoTracking](https://img.shields.io/badge/tracking-none-brightgreen?style=for-the-badge)
+![NoAds](https://img.shields.io/badge/ads-zero-brightgreen?style=for-the-badge)
+![DataOwner](https://img.shields.io/badge/seus%20dados-são%20seus-009c3b?style=for-the-badge)
+
+![LGPD](https://img.shields.io/badge/LGPD-Compliant-009c3b?style=for-the-badge)
+![MadeInBrazil](https://img.shields.io/badge/Feito%20no-Brasil-FFDF00?style=for-the-badge&logo=googlemaps&logoColor=009c3b)
+![IndieBuilt](https://img.shields.io/badge/built%20by-dev%20independente-ff69b4?style=for-the-badge)
 
 ---
 
