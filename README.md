@@ -14,7 +14,7 @@
 
 ![LGPD](https://img.shields.io/badge/LGPD-Compliant-009c3b?style=for-the-badge)
 ![MadeInBrazil](https://img.shields.io/badge/Feito%20no-Brasil-FFDF00?style=for-the-badge&logo=googlemaps&logoColor=009c3b)
-![IndieBuilt](https://img.shields.io/badge/built%20by-dev%20independente-ff69b4?style=for-the-badge)
+![IndieBuilt](https://img.shields.io/badge/built%20by-non%20dev%20independente-ff69b4?style=for-the-badge)
 
 ![PhysicsEngine](https://img.shields.io/badge/Physics%20Engine-Icarus-FF6B35?style=for-the-badge&logo=atom&logoColor=white)
 ![Particles](https://img.shields.io/badge/Particles-Newtonian%20Physics-FF6B35?style=for-the-badge)
